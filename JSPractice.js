@@ -9,7 +9,7 @@ function getMovies(movies){
 }
 function f(){
   console.log('Waiting...');
-  console.log('Waiting...');
+
 
 }
 getMovies(movies);
